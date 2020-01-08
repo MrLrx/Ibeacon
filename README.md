@@ -6,7 +6,7 @@
 
 ```
 $ ionic cordova plugin add cordova-plugin-ibeacon
-$ npm install @ionic-native/ibeacon
+$ npm install https://github.com/MrLrx/Ibeacon.git
 ```
 
 ## [Usage Documentation](https://ionicframework.com/docs/native/ibeacon/)
